@@ -11,3 +11,4 @@ data = {
 df = pd.DataFrame(data)
 
 print(df)
+# created from dictionary
