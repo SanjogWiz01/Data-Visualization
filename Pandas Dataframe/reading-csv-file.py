@@ -3,3 +3,4 @@ df = pd.read_csv(r'C:\Users\sanjo\OneDrive\Desktop\Pandas\Pandas Dataframe\probl
 print(df)
 print(df.shape)
 print('\n ',df.info())
+# reading the csv file using read_csv() function and storing it in a dataframe named df
