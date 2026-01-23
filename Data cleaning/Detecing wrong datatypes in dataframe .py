@@ -33,3 +33,4 @@ print("\n\n")
 # Step 3: Optionally, get a list of all columns with mixed types
 mixed_columns = [col for col in df.columns if len(df[col].apply(type).unique()) > 1]
 print("Columns with mixed data types:", mixed_columns)
+# added files here
