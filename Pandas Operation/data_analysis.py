@@ -5,3 +5,6 @@ team = df.groupby('Team')
 print(team.first()) # Let's print the first entries in all the groups formed.
 
 
+# grouping by multiple columns
+grouping = df.groupby(['Team', 'Position'])
+print(grouping.first())
