@@ -17,3 +17,7 @@ aggregated_data = df.groupby(['Team', 'Position']).agg(
 )
 
 print(aggregated_data)
+
+#transforming data within groups
+df['Rank within Team'] = df.groupby('Team')['Salary'].transform(lambda x: x.rank(ascending=False))
+print(df)
