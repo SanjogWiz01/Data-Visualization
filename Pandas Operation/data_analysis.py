@@ -21,3 +21,6 @@ print(aggregated_data)
 #transforming data within groups
 df['Rank within Team'] = df.groupby('Team')['Salary'].transform(lambda x: x.rank(ascending=False))
 print(df)
+# Filtering groups based on a condition
+filtered_df = df.groupby('Team').filter(lambda x: x['Salary'].mean() >= 1000000)
+print(filtered_df)
