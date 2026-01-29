@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Read Excel file
-df = pd.read_excel('2022-FIFA-World-Cup-Performance-Sample-Data.xlsx')
+df = pd.read_excel('2022-FIFA-World-Cup-Performance-Sample-Data.xlsx') # copy the relatie path from the file and just insert here your file name
 
 # Remove leading/trailing spaces from column names
 df.columns = df.columns.str.strip()
