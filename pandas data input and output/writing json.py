@@ -8,3 +8,4 @@ df.to_json('file1.json')
 
 df = pd.read_json('file1.json') # ,orient='split', compression='infer'  # orient='records' foe reemoving rowsc
 print(df)
+# this willl be write the json file in the current working directory
