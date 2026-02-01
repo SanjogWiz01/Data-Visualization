@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"Ram Sharma",
+        "city":"Kathmandu",
+        "salary":50000
+    },
+    {
+        "id":2,
+        "name":"Sita Khadka",
+        "city":"Pokhara",
+        "salary":48000
+    },
+    {
+        "id":3,
+        "name":"Bishal Thapa",
+        "city":"Butwal",
+        "salary":52000
+    },
+    {
+        "id":4,
+        "name":"Nisha Rai",
+        "city":"Dharan",
+        "salary":47000
+    },
+    {
+        "id":5,
+        "name":"Hari Pokhrel",
+        "city":"Lalitpur",
+        "salary":51000
+    }
+]
