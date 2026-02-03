@@ -19,4 +19,4 @@ ax.set_title('Contour Plot')
 ax.set_xlabel('feature_x')
 ax.set_ylabel('feature_y')
 
-plt.show()
+plt.show() # plotting the figure
