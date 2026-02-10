@@ -5,4 +5,4 @@ plt.bar(x, y)
 plt.xlabel('Time')
 plt.ylabel('Values')
 plt.title('Bar Plot Example')
-plt.show()
+plt.show() # plotting the data 
