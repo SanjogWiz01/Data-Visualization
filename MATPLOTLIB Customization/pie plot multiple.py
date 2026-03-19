@@ -22,4 +22,4 @@ axes[2].set_title('Pie Chart 3')
 plt.tight_layout()
 
 # Display the figure
-plt.show()
+plt.show() 
