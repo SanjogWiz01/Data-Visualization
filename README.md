@@ -21,7 +21,7 @@ This repository contains Python scripts for data analysis using Pandas, Matplotl
 
 1. Clone the repository: `git clone <repo-url>`
 2. Install required libraries: `pip install pandas matplotlib seaborn jupyter`
-3. Run the notebooks: `jupyter notebook`
+3. Run the notebooks: `jupyter notebook `
 
 ## Description
 
