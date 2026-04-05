@@ -2,7 +2,7 @@ import pandas as pd
 
 series = pd.Series(['New York', 'Chicago', 'Toronto', 'Lisbon'])
 
-# Creating the row axis labels
+# Creating the row axis label
 series.index = ['City 1', 'City 1', 'City 3', 'City 3'] 
 print(series)
 
