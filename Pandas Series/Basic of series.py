@@ -11,5 +11,5 @@ data=['s','a','n']
 print(pd.Series(data))
 #.series is a pre defined libary in pandas of python
 
-# acessing the data
+# acessing the data off course 
 print(' the acessing element is : ',pd.Series(data)[2])
