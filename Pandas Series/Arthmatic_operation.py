@@ -5,6 +5,5 @@ s2 = pd.Series([1, 2, 3])
 # Adding the two Series
 result = s1 + s2
 print(result)
-# next
 result = s1 == s2
 print(result)
