@@ -15,7 +15,7 @@ This repository contains Python scripts for data analysis using Pandas, Matplotl
 * Pandas
 * Matplotlib
 * Seaborn
-* Jupyter Notebook
+* Jupyter Notebook 
 
 ## Usage
 
