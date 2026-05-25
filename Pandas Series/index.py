@@ -6,5 +6,5 @@ data = pd.Series([10, 20, 30, 40], index=['a', 'b', 'c', 'd'])
 print("Original Index:\n", data)
 
 # Modifying the index
-data.index = ['w', 'x', 'y', 'z']
+data.index = ['w', 'x', 'y', 'z'] 
 print("Modified Series:\n", data) 
