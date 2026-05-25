@@ -7,4 +7,4 @@ print("Original Index:\n", data)
 
 # Modifying the index
 data.index = ['w', 'x', 'y', 'z']
-print("Modified Series:\n", data)
+print("Modified Series:\n", data) 
