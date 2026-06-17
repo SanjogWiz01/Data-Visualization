@@ -3,6 +3,7 @@ git commit -m "Hello world "
 git push
 git list branches 
 git checkout previous braches
+git merge brach_name
 
 djdmdnd
 dd
