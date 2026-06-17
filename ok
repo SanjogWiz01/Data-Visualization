@@ -1,6 +1,7 @@
  git add.
 git commit -m "Hello world "
 git push
+git list branches 
 
 djdmdnd
 dd
