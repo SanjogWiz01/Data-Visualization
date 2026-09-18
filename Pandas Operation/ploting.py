@@ -1,6 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-import pytourch as ppp
+import pytorch  as pdk
 
 # Sample data
 data = {
