@@ -11,7 +11,7 @@ This repository contains Python scripts for data analysis using Pandas, Matplotl
 ## Requirementss 
 
 * Python 3.x 
-* Pandas 
+* Pandas
 * Matplotlib
 * Seaborn
 * Jupyter Notebook  
