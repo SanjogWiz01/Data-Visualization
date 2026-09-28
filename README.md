@@ -1,5 +1,4 @@
 # Data-Visualization 
-Yo bro
 # Data Analysis with Pandas, Matplotlib,and Seaborn. 
 
 This repository contains Python scripts for data analysis using Pandas, Matplotlib, and Seaborn.
