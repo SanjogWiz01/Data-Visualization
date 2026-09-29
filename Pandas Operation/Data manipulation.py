@@ -1,6 +1,6 @@
 ''' Manipulation:
 
-Add / assign: df['new_col'] = ... or df.assign(...)
+Add / assign: df['new_col'] = ... or df.assign(...) 
   
 Rename: df.rename(columns={...})
 
