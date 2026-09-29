@@ -6,4 +6,4 @@ Rename: df.rename(columns={...})
 
 Drop: df.drop(columns=[...]), df.drop(index=[...])
 
-Sort: df.sort_values(by=..., ascending=...)'''
+Sort: df.sort_values(by=..., ascending=...)'''  
