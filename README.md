@@ -11,7 +11,7 @@ This repository contains Python scripts for data analysis using Pandas, Matplotl
 * `seaborn.ipynb`: Statistical data visualization using Seaborn.
 ## Requirementss
 
-* Python 3.x          
+* Python 3.x
 * Pandas
 * Matplotlib
 * Seaborn 
