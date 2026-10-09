@@ -6,7 +6,7 @@ This repository contains Python scripts for data analysis using Pandas, Matplotl
 
 ## Files
 
-* `pandas.ipynb`: Data manipulation and analysis using Pandas
+* `pandas.ipynb`: Data manipulation and analysis using Pandas.
 * `matlab.ipynb`: Data visualization using Matplotlib
 * `seaborn.ipynb`: Statistical data visualization using Seaborn.
 ## Requirements
